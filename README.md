@@ -1,2 +1,0 @@
-# Student-details
-Student-details
